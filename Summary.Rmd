@@ -2,7 +2,9 @@
 
 Big problem in East Asia and increasing problem everywhere else. Especially prevalent in school-leavers (80-90%) and 10-20% can have high myopia.
 
-Sindromic or non-sindromic. The latter is could be familial and have early onset or could be school myopia which develops in middle childhood.
+Syndromic or non-syndromic. 
+The former is associated with at least one other medical condition.
+The latter could be familial and have early onset or could be school myopia which develops in middle childhood.
 
 
 Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
@@ -18,6 +20,8 @@ One key indicator of a genetic basis is familial clustering. In the case of myop
 For the syndromic high myopias, a common feature is the participation of genes involved in scleral extracellular matrix (ECM). For the non-syndromic high myopias, a large number of chromosomal localisations have been reported (MYP1–MYP17), but few speciﬁc genes have been identiﬁed.
 
 Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
+
+
 
 
 ## Correction methods
