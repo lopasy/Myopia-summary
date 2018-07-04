@@ -1,0 +1,20 @@
+--- 
+title: "Myopia summary"
+author: "Alfred Pozarickij"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-dem
+description: "This is the summary of myopia, which will be used for my PhD thesis."
+---
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+# Summary
+
+Big problem in East Asia and increasing problem everywhere else. Especially prevalent in school-leavers (80-90%) and 10-20% can have high myopia.
+
+Sindromic or non-sindromic. The latter is could be familial and have early onset or could be school myopia which develops in middle childhood.
+
+
+Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
+
+## Risk factors
+
+The higher prevalence of myopia in east Asian cities seems to be associated with increasing educational pressures, combined with life-style changes, which have reduced the time children spend outside.
+
+Results from experimental studies, including in primates, support the evidence of environmental factors from human epidemiology. These studies show that changes in visual experience by ﬁtting of diﬀusers or both positive and negative lenses over the eyes can generate signals that promote eye growth, leading to myopia, as well as signals that slow eye growth.
+
+One key indicator of a genetic basis is familial clustering. In the case of myopia, sibling risk ratios are generally high, and even higher for high myopia[ref] However, families share environments as well as genes, and sibling similarities in postulated myopigenic environmental factors are often higher than the sibling risk for myopia itself.[ref]
+
+For the syndromic high myopias, a common feature is the participation of genes involved in scleral extracellular matrix (ECM). For the non-syndromic high myopias, a large number of chromosomal localisations have been reported (MYP1–MYP17), but few speciﬁc genes have been identiﬁed.
+
+Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
+
+
+## Correction methods
+
+Vision can be corrected with glasses, contact lenses, and refractive surgery. Invasive vs non-invasive.
+
+### Outdoor interventions
+
+### Pharmacological interventions
+
+### Scleral reinforcement
+
+
+## Description of the biology and physics of the eye
+
+Refractive status is a complex variable, determined by the balance of the optical power of the cornea and the lens, and the axial length of the eye (with its component parts anterior chamber depth, lens thickness, and vitreal chamber depth). Myopia usually results from an eye that has become too long, particularly through elongation of the vitreal chamber. 
+
+Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
+
+Most children are born hyperopic, with a normal distribution of refractive errors.[ref] During the ﬁrst year or two after birth, the distribution narrows, [ref] with a mean in the hyperopic range of +1–2 dioptres (D).
+
+Emmetropisation is what leads to this active change in refraction.
+
+After that period, the cornea stabilises,[ref] but refraction can become more myopic as axial length can continue to increase for another two decades. By contrast, lens power decreases substantially up to the age of about 12 years,[ref] with slower decreases for most of adult life.[ref] Myopia generally develops during the early to middle childhood years, but signiﬁcant myopia can also develop in the late teenage years or early adulthood.[ref] Axial length is the most variable factor during development, with the strongest correlation with refractive status, with longer eyes more likely to be myopic than shorter eyes.[ref] Control of the axial elongation of the eye during development is thus crucial for achieving normal vision, and therefore is a primary site for prevention. With normal vision, the parallel rays of distant objects are focused on or near the photoreceptors. The image of closer objects then falls behind the photoreceptors, and accommodation (the variable power of the lens) is used to bring the image of nearer objects into focus. With hyperopic eyes, eyes that are too short, the image of distant objects falls behind the photoreceptors, and can be brought into focus by accommodation. In myopic eyes, the image of distant objects falls in front of the photoreceptors, and cannot be brought into focus by accommodation, thus imposing a greater need for correction. Although axial length is important biologically, refractive error is the clinically meaningful value. Optical correction with spectacles and contact lenses does not change axial length, but alters the optics of vision by making the parallel rays of distant objects diverge, bringing them into focus on the photoreceptors using the natural optics of the eye. Optical correction has been routine clinical practice for many years. Spectacles are the most common form of correction. Contact lenses are generally not recommended for children. Refractive surgery, in which the corneal surface is ﬂattened and its optical power reduced is now also routine, but is generally not recommended until refractive development has stabilised in the twenties. Refractive error is generally quantiﬁed as spherical equivalent (SE; spherical refraction plus half the negative cylinder) in dioptres, and myopia is commonly deﬁned as a SE of ≤–0.5 D, whereas high myopia is variably deﬁned with a cutoﬀ in the range of ≤–5.0 D to –10.0 D. 
+
+## Epidemiology
+
+The data from Taiwan [ref] show that the prevalence of myopia has reached a plateau at a very high level, although increases in severity might still occur. 
+
+Some of the highest prevalences of myopia have been reported for young adults of Chinese ancestry, but the evidence does not support the idea that ethnic diﬀ erences in the prevalence of myopia are based primarily on genetic diﬀ erences.[ref] In terms of major population genetic clusters,[ref] the prevalence of myopia varies highly between locations in children within each European, south Asian, and east Asian population clusters, with generally lower prevalences in rural areas than in urban areas. Data on children of Middle Eastern origin are less comprehensive than data of children of European, south Asian, or east Asian ancestry. In general, the prevalences of myopia are low, but urban-rural diﬀ erences have been noted. In children of sub-Saharan African ancestry, the prevalence of myopia is generally low for those growing up in Africa, but is higher in those growing up in USA or UK.
+
+Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
+
+Studies on migrant populations have provided important insights. Children of south Asian ancestry in the UK and Australia show higher prevalences of myopia than those in India, although not as high as in Singapore. Students of Chinese origin in Australia show lower levels of myopia than those in urban centres in east and southeast Asia. Children of European origin in Sydney have much less myopia than those in the UK. Overall, the prevalence of myopia seems to depend on where children grow up and the environments to which they are exposed, rather than aspects of genetic ancestry.
+
+Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
+
+
+## Ocular morbidity
+
+Myopia is associated with other ocular disorders such as cataract [ref] and glaucoma,[ref] whereas it is negatively associated with age-related macular degeneration. [ref]
+
+Pathological myopia was originally described as high myopia accompanied by characteristic degenerative changes in the sclera, choroid, and retinal pigment epithelium, with compromised visual function.[ref] Not all highly myopic eyes develop pathological myopia, and attempts have been made to deﬁ ne highly myopic eyes at high risk as those with an axial length of more than 3 (SD) from the mean for emmetropic eyes. Although issues associated with diﬀ ering deﬁ nitions of high myopia and signs of pathological myopia exist, results from several studies[ref] have shown that few pathological signs are noted in eyes with refractions in the mild-tomoderate range of myopia, but that the prevalence of pathological signs increases steeply with myopia more severe than –5 to –6 D. The incidence and severity of pathological signs also increase with age, but clinically signiﬁ cant pathological changes can be noted in patients who are middle-aged or younger.[ref]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
