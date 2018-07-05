@@ -1,13 +1,19 @@
 # Summary
 
-Big problem in East Asia and increasing problem everywhere else. Especially prevalent in school-leavers (80-90%) and 10-20% can have high myopia.
+Big problem in East Asia and increasing problem everywhere else. Especially prevalent in school-leavers (80-90%) and 10-20% can have high myopia.In less developed parts of the world, with less developed education systems, the prevalence of myopia in young adults is often less than 5-10%. [refs]
 
 Syndromic or non-syndromic. 
 The former is associated with at least one other medical condition.
 The latter could be familial and have early onset or could be school myopia which develops in middle childhood.
 
-
 Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
+
+Earlier onset will lead to more negative refractive error.
+As the prevalence of myopia has increased, the age of onset of myopia has decreased, which gives myopia more time to progress before it stabilizes. This hypothesis is supported by evidence that early onset of myopia is associated with higher final myopia (Chua et al., 2016; Iribarren et al., 2009).
+
+Genetic factors impose a level of baseline risk of myopia, and concentrate on the associations of myopia with environmental risk factors which have led to the epidemic of myopia in the developed countries of East and Southeast Asia.
+
+Morgan IG, French AN, Ashby RS, Guo X, Ding X, He M, Rose KA (2018) The epidemics of myopia: Aetiology and prevention. Progress in Retinal and Eye Research 62: 134-149
 
 ## Risk factors
 
@@ -20,8 +26,6 @@ One key indicator of a genetic basis is familial clustering. In the case of myop
 For the syndromic high myopias, a common feature is the participation of genes involved in scleral extracellular matrix (ECM). For the non-syndromic high myopias, a large number of chromosomal localisations have been reported (MYP1–MYP17), but few speciﬁc genes have been identiﬁed.
 
 Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
-
-
 
 
 ## Correction methods
@@ -59,6 +63,15 @@ Studies on migrant populations have provided important insights. Children of sou
 
 Morgan IG, Ohno-Matsui K, Saw S-M (2012) Myopia. The Lancet 379: 1739-1748
 
+Myopia has often been described as a Chinese or Asian problem, when, in fact, the epidemic crosses ethnic boundaries, but is quite tightly localized geographically.
+
+It is important to use correct geographical terminology for regions, in order to accurately identify where the epidemic is taking place. It is then possible to look for common factors in these regions, and within these regions, in affected countries, which contrast with conditions in other countries and regions which are not affected. Asia is a large continent, extending east of the Ural Mountains and River, south of the Black Sea, and East of the Dardanelles and Red Sea. It is diverse in terms of the continental genetic ancestry of its
+populations, and diverse in terms of culture and levels of economic development. It is therefore unlikely to be a coherent unit in relation to any complex disease, and in the case of myopia, it is not. Asia includes East Asia, and Southeast Asia, where the most prominent myopia epidemic is located, as well as Central, South and West Asia. East Asia is defined as consisting of China, including Hong Kong and Macao, Taiwan, Japan, North Korea, South Korea,
+and Mongolia. The prevalence of myopia is high in most parts of East Asia (Morgan et al., 2012; Pan et al., 2012), but there is no data available on North Korea and Macao, and the prevalence appears to be low in Mongolia (Morgan et al., 2006; Wickremasinghe et al.,
+2004). Macao's close affinities to mainland China and Hong Kong, and its high educational outcomes, suggest that its prevalence of myopia will be high. In most parts of East Asia, the prevalence of myopia is therefore high. Southeast Asia consists of Vietnam, Cambodia, Laos, Singapore, Indonesia, Malaysia, Brunei, Thailand, Myanmar, Philippines and Timor Leste. Singapore, which stands out for economic development and high educational standards in the region, is the only country in the region where the prevalence of myopia is known to be high (Morgan et al., 2012; Pan et al., 2012). It is known to be low in children in Cambodia (Casson et al., 2012), Laos (Gao et al., 2012) and Thailand (Yingyong, 2010). The myopia epidemics are therefore localized to the developed countries of East and Southeast Asia, and
+causal factors are likely to be common to them, and distinct from other countries in the region.
+
+Morgan IG, French AN, Ashby RS, Guo X, Ding X, He M, Rose KA (2018) The epidemics of myopia: Aetiology and prevention. Progress in Retinal and Eye Research 62: 134-149
 
 ## Ocular morbidity
 
