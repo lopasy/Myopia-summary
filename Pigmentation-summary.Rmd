@@ -1,4 +1,4 @@
-# Hair color summary
+# Pigmentation summary
 
 SLC24A4 (rs12896399) and IRF4 (rs12203592) showed strong associations with hair color. The IRF4 SNP was also associated with skin and eye color and skin tanning response to sunlight.
 One variant in the MATP gene was associated with hair color. A variant in the HERC2 gene upstream of the OCA2 gene showed the strongest and independent association with hair color compared with other SNPs in this region, including three previously reported SNPs. The signals detected in a region around the MC1R gene were explained by MC1R red hair color alleles.[1]
